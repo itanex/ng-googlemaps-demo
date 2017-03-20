@@ -1,6 +1,6 @@
 {
     "files": [
-        "./src/**/*.{js,html,css,json,png}"
+        "./src/**/*.{js,html,css,json}"
     ],
     "port": 8000,
     "server": {

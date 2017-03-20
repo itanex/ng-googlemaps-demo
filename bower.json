@@ -1,20 +1,11 @@
 {
-  "name": "typescriptclasstemplate",
-  "description": "template project for typescript and angular",
-  "main": "",
+  "name": "googlemaps-demo",
+  "description": "Demostration of Google Maps API and Angular",
+  "version": "1.0.0",
   "authors": [
     "Bryan Wood <whenidev@gmail.com>"
   ],
   "license": "MIT",
-  "homepage": "https://github.com/itanex/TypeScriptClasses",
-  "ignore": [
-    "**/.*",
-    "node_modules",
-    "bower_components",
-    "src/lib",
-    "test",
-    "tests"
-  ],
   "private": true,
   "dependencies": {
     "angular": "^1.6.3",

@@ -1,4 +1,6 @@
-# Typescript and Angular template
+# Google Maps and Angular
+
+This demonstrates the Angular-Google-Maps directive with Marker example loading through $http
 
 ## Documentation
 
