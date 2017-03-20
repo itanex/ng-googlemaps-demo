@@ -1,0 +1,17 @@
+[
+    {
+        "title": "Seattle Coder Camps",
+        "latitude": 47.671853,
+        "longitude": -122.121328
+    },
+    {
+        "title": "Houston Coder Camps",
+        "latitude": 29.552561,
+        "longitude": -95.395219
+    },
+    {
+        "title": "San Francisco Coder Camps",
+        "latitude": 37.809499,
+        "longitude": -122.253665
+    }
+]
